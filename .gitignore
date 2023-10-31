@@ -73,3 +73,6 @@ Thumbs.db
 *.egg-info
 .ruff*
 build
+
+# SSE
+_rez_build
